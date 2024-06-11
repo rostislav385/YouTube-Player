@@ -1,0 +1,67 @@
+User Agreement
+This User Agreement ("Agreement") is a legal agreement between you ("User") and RostikCompany ("We" or "Us") regarding the use of the Rotify ("Program"). By using the Program, you agree to be bound by the terms and conditions of this Agreement.
+
+1. Definitions
+"Program" refers to the Rotify.
+
+"User" refers to any individual or entity using the Program.
+
+2. License to Use
+We grant you a limited, non-exclusive, non-transferable license to use the Program in accordance with the terms of this Agreement.
+
+3. Assurances
+3.1 We fully assure that our Program does not contain viruses or prohibited scripts/programs.
+
+3.1.1 Even if antivirus software considers our file to be a virus, this is an error due to the compilation of Python scripts into executable files.
+
+3.1.2 The downloaded Program from official resources does not have built-in viruses.
+
+4. Limitations
+4.1 We are not responsible for our software.
+
+4.2 Our Program may be considered illegal because it downloads audio from YouTube.
+
+4.2.1 We are not responsible if you receive a fine or other penalties for using the Program.
+
+4.2.2 It is forbidden to distribute downloaded files from the root folders and the "songs" folder; otherwise, we are not responsible for you.
+
+4.2.3 It is forbidden to distribute music files.
+
+5. Code Modification
+5.1 Code modification is prohibited.
+
+5.1.1 Code modification is illegal.
+
+5.1.2 Editing .txt files is allowed at your own risk and is legal.
+
+5.1.3 It is forbidden to insert viruses into the Program and distribute them.
+
+6. Bug Exploitation
+6.1 Bug exploitation is not welcomed.
+
+6.1.1 If a bug is found, please report it to rostislavpanasuk@gmail.com.
+
+6.1.2 Bugs will be fixed upon discovery.
+
+6.1.3 We are not responsible for bugs.
+
+7. Intellectual Property
+All intellectual property rights in the Program are owned by us or our licensors.
+
+8. Limitation of Liability
+We are not liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Program.
+
+9. Privacy
+If the Program collects personal data, it will be handled in accordance with our Privacy Policy.
+
+10. Termination
+We may terminate this Agreement at any time if you violate its terms. Upon termination, you must cease all use of the Program.
+
+11. Changes to the Agreement
+We reserve the right to modify this Agreement at any time. We will notify you of any changes, and your continued use of the Program will constitute acceptance of the revised terms.
+
+12. Governing Law
+This Agreement is governed by the laws of Europe, and any disputes will be resolved in the courts of Europe.
+
+13. Contact
+If you have any questions or concerns about this Agreement, please contact us at rostislavpanasuk@gmail.com.
