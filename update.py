@@ -7,7 +7,6 @@ import shutil
 import ctypes
 import sys
 def is_admin():
-    pass
     try:
         return ctypes.windll.shell32.IsUserAnAdmin()
     except:
